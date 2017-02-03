@@ -1,5 +1,5 @@
 # frontend-interview-collect
-前端面试汇总
+前端面试招聘汇总
 
 ## 饿了么前端
 
@@ -17,3 +17,8 @@
 ## 凹凸实验室
 
  - [加入我们](https://aotu.io/join/)
+
+## 百度金融信贷场景团队
+
+ - [web前端工程师](https://github.com/Findow-team/Blog/issues/9)
+ 
