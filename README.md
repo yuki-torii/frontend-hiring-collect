@@ -1,4 +1,4 @@
-# frontend-interview-collect
+# frontend-hiring-collect
 前端面试招聘汇总
 
 - 饿了么前端
