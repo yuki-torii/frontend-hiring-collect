@@ -19,3 +19,6 @@
  
 - Segmentfault
  - [Hiring](https://segmentfault.com/hiring)
+
+- Strikingly 
+ - [Hiring](https://github.com/strikingly/hiring)
